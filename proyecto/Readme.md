@@ -61,7 +61,7 @@ Dispositivo que recibe energía y la convierte en una salida eléctrica, movimie
 - **Actuadores lineales:** Se caracterizan por mover objetos en línea recta, además de su repetibilidad y precisión de posicionamiento. Se usan para tareas de empuje, tracción, elevación y posicionamiento.
   
 - **Servo Motor SG90:** Es un actuador rotativo compuesto por un motor eléctrico de corriente contínua, El SG90 funciona recibe una señal PWM (modulación por ancho de pulso) en su pin de control. Según la duración del pulso, el eje del servo se posicionará en un ángulo específico dentro del rango de 0° a 360° a una frecuencia de 50Hz, de esta forma se determina la dirección y y la posición.
-- ![Imagen]
+- ![Imagen](https://github.com/rog-pix/Sensor-de-Ultra-Sonido-/blob/1ea82c30775786714f6d031f3b4f034aedc0aa49/Im%C3%A1genes/servo.pgn)
 - - _**Datasheet Servo Motor SG90:**_
     
        Voltaje de operación DC: 4.8V a 6V.
