@@ -21,22 +21,17 @@ Este proyecto tiene como objetivo principal aplicar los conocimientos de la asig
    3.2.3. [Servo Motor SG90](#servo-Motor-SG90)
    3.3. [FPGA](#fpga)
 5. [Materiales](#materiales)
-6. [Simulaciones](#simulaciones)
-7. [Resultados](#resultados)
-8. [Análisis de resultados](#Análisisderesultados)
-9. [Conclusiones](#conclusiones)
-10. [Referecicas bibliográficas.](#Referenciasbibliográficas)
+6. [Resultados](#resultados)
+7. [Análisis de resultados](#Análisisderesultados)
+8. [Conclusiones](#conclusiones)
+9. [Referecicas bibliográficas.](#Referenciasbibliográficas)
 
 ## Marco Teórico.
 
 **1. Sensores.**
+Un sensor es un dispositivo o instrumento que detecta y responde a ciertos cambios en su entorno físico. Estos cambios pueden incluir variaciones en temperatura, luz, presión, movimiento, humedad, entre otros. Los sensores convierten estas variaciones en señales eléctricas u ópticas que pueden ser leídas y procesadas por otros dispositivos, como un controlador o una computadora.
 
-Dispositivo que detecta y almacena los datos al realizar mediciones del entorno físico. Hay diferentes tipos de sensores como de corriente, magnéticos, presión, temperatura, sensores ópticos, sensores ópticos, posición, ambientales y sensores químicos.
-
-- **Sensor de ultrasonido HC-SR04:** Es un sensor de distancia que usa una señal sonora para determinar la distancia a la que se encuentra un objeto (rango de 2 a 450 cm). Está compuesto de dos transductores los cuáles son un emisor y un recceptor, ambos de tipo piezoeléctricos. El emisor mediante el pin TRIG emite 8 pulsos de ultrasonido a 40KHz los cuales rebotan con el objeto, este rebote es detectado por el receptor, y con el pin ECHO se genera una señal de alto o 5V con duración igual al tiempo que fue emitida la onda sonora hasta cuando fue detectada. La distancia del objeto se calcual mediante la siguiente fórmula: Distancia = (Tiempo de pulso ECO*Velocidad del sonido)/2.
-  
-- **Sensor Joystick KY-023:** Sensor que detecta los movimientos del dedo, con el fin de controlar un actuador, internamente se compone por dos potenciometros posicionados a 90° entre sí, por lo que usa 2 pines analógicos; adicionalmente tiene un eje z al apretar el joystick, el funcionamiento de este eje es similar a un botón.
-
+- **Sensor de ultrasonido HC-SR04:** El sensor de ultrasonido HC-SR04 es un dispositivo utilizado para medir distancias mediante la emisión y recepción de ondas ultrasónicas. Funciona emitiendo un pulso ultrasónico y  midiendo el tiempo que tarda en rebotar el eco del objeto y regresar al sensor. Con base en el tiempo de retorno del eco, el sensor calcula la distancia que se encuentra el objeto.
 **2. Actuadores.**
 Dispositivo que recibe energía y la convierte en una salida eléctrica, movimiento, fuerza. Los actuadores pueden ser de tipo lineal o rotativos.
 
