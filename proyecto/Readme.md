@@ -31,7 +31,7 @@ Este proyecto tiene como objetivo principal aplicar los conocimientos de la asig
 Un sensor es un dispositivo o instrumento que detecta y responde a ciertos cambios en su entorno físico. Estos cambios pueden incluir variaciones en temperatura, luz, presión, movimiento, humedad, entre otros. Los sensores convierten estas variaciones en señales eléctricas u ópticas que pueden ser leídas y procesadas por otros dispositivos, como un controlador o una computadora.
 
 - **Sensor de ultrasonido HC-SR04:** El sensor de ultrasonido HC-SR04 es un dispositivo utilizado para medir distancias mediante la emisión y recepción de ondas ultrasónicas. Funciona emitiendo un pulso ultrasónico y  midiendo el tiempo que tarda en rebotar el eco del objeto y regresar al sensor. Con base en el tiempo de retorno del eco, el sensor calcula la distancia que se encuentra el objeto.
--  ![Imagen](-https://github.com/rog-pix/Sensor-de-Ultra-Sonido-/blob/4f538d00c95dfb83eda47540c6e7e82c0be4a2ce/Im%C3%A1genes/ultrasonico.png)
+-  ![Imagen](https://github.com/rog-pix/Sensor-de-Ultra-Sonido-/blob/79073a7b19030830ccc752ebbcefdbd83533bbc3/Im%C3%A1genes/ultrasonico.png)
 - - _**Datasheet Sensor Ultrasonico HC-SR04.**_
   
       Voltaje de Operación: 5V DC
