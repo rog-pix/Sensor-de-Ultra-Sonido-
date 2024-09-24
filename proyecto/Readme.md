@@ -88,3 +88,6 @@ Dispositivo que recibe energía y la convierte en una salida eléctrica, movimie
 Dispositivo utilizado para mostrar números de forma digital, compuesto por 7 LEDs organizados en forma de segmentos (etiquetados como a, b, c, d, e, f, g), que juntos pueden formar dígitos del 0 al 9. Este tipo de módulo se denomina "de cátodo común" porque todos los cátodos de los LEDs (las terminales negativas) están conectados entre sí y a un punto común es decir las pines deben estar alimntados con un 1 para ver las salidas, generalmente se conecta a tierra (GND). Para encender un segmento, se debe aplicar una señal positiva (voltaje) a los ánodos de los LEDs correspondientes.
 - ![Imagen](https://github.com/rog-pix/Sensor-de-Ultra-Sonido-/blob/03357fd636c7ee034f8a06be51200a71940481ae/Im%C3%A1genes/display-anodo-comum.png)
 - ## Materiales.
+- **Protoboard**.
+Una protoboard (también conocida como placa de pruebas o breadboard) es una herramienta utilizada en electrónica para construir prototipos de circuitos de manera temporal, sin necesidad de soldadura. Es muy útil para desarrollar y probar circuitos electrónicos de forma rápida y sencilla, permitiendo realizar modificaciones sin dificultad.
+![Imagen]()
