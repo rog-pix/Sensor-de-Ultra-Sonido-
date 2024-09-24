@@ -90,4 +90,7 @@ Dispositivo utilizado para mostrar números de forma digital, compuesto por 7 LE
 - ## Materiales.
 - **Protoboard**.
 Una protoboard (también conocida como placa de pruebas o breadboard) es una herramienta utilizada en electrónica para construir prototipos de circuitos de manera temporal, sin necesidad de soldadura. Es muy útil para desarrollar y probar circuitos electrónicos de forma rápida y sencilla, permitiendo realizar modificaciones sin dificultad.
-![Imagen]()
+![Imagen](https://github.com/rog-pix/Sensor-de-Ultra-Sonido-/blob/a651cf82ffbc38d8fae4dcfd9d38f7e72bf64bc6/Im%C3%A1genes/proto.pgn)
+- **Jumpers**.
+- Es un pequeño conector utilizado para establecer conexiones eléctricas temporales entre dos puntos en un circuito. Los jumpers son especialmente comunes en protoboards y en placas de desarrollo, donde se utilizan para conectar componentes de manera flexible y rápida sin necesidad de soldadura.
+- ![Imagen]()
