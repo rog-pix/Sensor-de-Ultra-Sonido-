@@ -96,4 +96,4 @@ Una protoboard (también conocida como placa de pruebas o breadboard) es una her
 - ![Imagen](https://github.com/rog-pix/Sensor-de-Ultra-Sonido-/blob/75be5ecf04d4a41ab92c25347c14ea4da3c68468/Im%C3%A1genes/jumper.pgn)
 - **Pulsador**.
 - también conocido como botón o interruptor momentáneo, es un componente electrónico que permite cerrar o abrir un circuito de manera temporal cuando se presiona. Su función principal es iniciar o detener el flujo de corriente eléctrica al accionar un circuito, como encender un LED, activar un motor o enviar una señal a un microcontrolador.
-- ![Imagen]
+- ![Imagen](https://github.com/rog-pix/Sensor-de-Ultra-Sonido-/blob/ddfc191e6d3bf7c24b04e956395bf0db3652c1ef/Im%C3%A1genes/pulsador.pgn)
