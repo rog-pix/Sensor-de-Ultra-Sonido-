@@ -20,7 +20,7 @@ Este proyecto tiene como objetivo principal aplicar los conocimientos de la asig
    3.2.3. [Servo Motor SG90](#servo-Motor-SG90)
    3.3. [FPGA](#fpga)
 5. [Materiales](#materiales)
-6. [Resultados](#resultados)
+6. [Planteamiento del problema](#resultados)
 7. [Análisis de resultados](#Análisisderesultados)
 8. [Conclusiones](#conclusiones)
 9. [Referecicas bibliográficas.](#Referenciasbibliográficas)
@@ -86,4 +86,5 @@ Dispositivo que recibe energía y la convierte en una salida eléctrica, movimie
  ![Imagen](https://github.com/rog-pix/Sensor-de-Ultra-Sonido-/blob/d73fb64c5d674c6e1685071ff206f6adb31e7c0a/Im%C3%A1genes/fpga.png)
 - **Modulo 7 Segmentos cátodo común:**
 Dispositivo utilizado para mostrar números de forma digital, compuesto por 7 LEDs organizados en forma de segmentos (etiquetados como a, b, c, d, e, f, g), que juntos pueden formar dígitos del 0 al 9. Este tipo de módulo se denomina "de cátodo común" porque todos los cátodos de los LEDs (las terminales negativas) están conectados entre sí y a un punto común es decir las pines deben estar alimntados con un 1 para ver las salidas, generalmente se conecta a tierra (GND). Para encender un segmento, se debe aplicar una señal positiva (voltaje) a los ánodos de los LEDs correspondientes.
-- ![Imagen]()
+- ![Imagen](https://github.com/rog-pix/Sensor-de-Ultra-Sonido-/blob/03357fd636c7ee034f8a06be51200a71940481ae/Im%C3%A1genes/display-anodo-comum.png)
+- ## Materiales.
