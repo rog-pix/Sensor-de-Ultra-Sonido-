@@ -94,3 +94,6 @@ Una protoboard (también conocida como placa de pruebas o breadboard) es una her
 - **Jumpers**.
 - Es un pequeño conector utilizado para establecer conexiones eléctricas temporales entre dos puntos en un circuito. Los jumpers son especialmente comunes en protoboards y en placas de desarrollo, donde se utilizan para conectar componentes de manera flexible y rápida sin necesidad de soldadura.
 - ![Imagen](https://github.com/rog-pix/Sensor-de-Ultra-Sonido-/blob/75be5ecf04d4a41ab92c25347c14ea4da3c68468/Im%C3%A1genes/jumper.pgn)
+- **Pulsador**.
+- también conocido como botón o interruptor momentáneo, es un componente electrónico que permite cerrar o abrir un circuito de manera temporal cuando se presiona. Su función principal es iniciar o detener el flujo de corriente eléctrica al accionar un circuito, como encender un LED, activar un motor o enviar una señal a un microcontrolador.
+- ![Imagen]
