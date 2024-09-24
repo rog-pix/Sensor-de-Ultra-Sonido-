@@ -16,7 +16,6 @@ Este proyecto tiene como objetivo principal aplicar los conocimientos de la asig
 3. [Marco Teórico](#marco-teórico)
    3.1. [Sensores](#sensores)
    3.1.1. [Sensor de ultrasonido HC-SR04](#sensor-de-ultrasonido-HC-SR04)
-   3.1.2. [Sensor Joystick KY-023](#sensor-joystick-KY-023)
    3.2. [Actuadores](#actuadores)
    3.2.3. [Servo Motor SG90](#servo-Motor-SG90)
    3.3. [FPGA](#fpga)
@@ -82,6 +81,7 @@ Dispositivo que recibe energía y la convierte en una salida eléctrica, movimie
        Peso: 9 gr.
   
 **3. FPGA**.  La FPGA un circuito integrado digital compuesto por una matriz de bloques lógicos configurables (CLBs) interconectados a través de una red de conmutación programable, lo que permite implementar diversas funciones de hardware de manera simultánea.. Las FPGA se componen de compuertas lógicas AND, OR, memoria RAM Y controladores de reloj, por lo que es idea para el diseño de sistemas embebidos con microprocesadores.
+ ![Imagen](h)
 
 - **Documentación**
 A continuación se presentan las epecificaciones del proyecto.
