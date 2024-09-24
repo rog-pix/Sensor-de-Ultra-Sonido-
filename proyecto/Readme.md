@@ -81,7 +81,7 @@ Dispositivo que recibe energía y la convierte en una salida eléctrica, movimie
        Peso: 9 gr.
   
 **3. FPGA**.  La FPGA un circuito integrado digital compuesto por una matriz de bloques lógicos configurables (CLBs) interconectados a través de una red de conmutación programable, lo que permite implementar diversas funciones de hardware de manera simultánea.. Las FPGA se componen de compuertas lógicas AND, OR, memoria RAM Y controladores de reloj, por lo que es idea para el diseño de sistemas embebidos con microprocesadores.
- ![Imagen](h)
+ ![Imagen](Imágenes/fpga.png)
 
 - **Documentación**
 A continuación se presentan las epecificaciones del proyecto.
