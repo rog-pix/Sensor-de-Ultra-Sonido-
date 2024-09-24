@@ -93,4 +93,4 @@ Una protoboard (también conocida como placa de pruebas o breadboard) es una her
 ![Imagen](https://github.com/rog-pix/Sensor-de-Ultra-Sonido-/blob/a651cf82ffbc38d8fae4dcfd9d38f7e72bf64bc6/Im%C3%A1genes/proto.pgn)
 - **Jumpers**.
 - Es un pequeño conector utilizado para establecer conexiones eléctricas temporales entre dos puntos en un circuito. Los jumpers son especialmente comunes en protoboards y en placas de desarrollo, donde se utilizan para conectar componentes de manera flexible y rápida sin necesidad de soldadura.
-- ![Imagen]()
+- ![Imagen](https://github.com/rog-pix/Sensor-de-Ultra-Sonido-/blob/75be5ecf04d4a41ab92c25347c14ea4da3c68468/Im%C3%A1genes/jumper.pgn)
