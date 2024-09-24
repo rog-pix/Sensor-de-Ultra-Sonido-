@@ -84,8 +84,6 @@ Dispositivo que recibe energía y la convierte en una salida eléctrica, movimie
   
 **3. FPGA**.  La FPGA un circuito integrado digital compuesto por una matriz de bloques lógicos configurables (CLBs) interconectados a través de una red de conmutación programable, lo que permite implementar diversas funciones de hardware de manera simultánea.. Las FPGA se componen de compuertas lógicas AND, OR, memoria RAM Y controladores de reloj, por lo que es idea para el diseño de sistemas embebidos con microprocesadores.
  ![Imagen](https://github.com/rog-pix/Sensor-de-Ultra-Sonido-/blob/d73fb64c5d674c6e1685071ff206f6adb31e7c0a/Im%C3%A1genes/fpga.png)
-
-- **Documentación**
-A continuación se presentan las epecificaciones del proyecto.
-
-- _**Datasheet Sensor Ultrasonico HC-SR04.**_
+- **Modulo 7 Segmentos cátodo común:**
+Dispositivo utilizado para mostrar números de forma digital, compuesto por 7 LEDs organizados en forma de segmentos (etiquetados como a, b, c, d, e, f, g), que juntos pueden formar dígitos del 0 al 9. Este tipo de módulo se denomina "de cátodo común" porque todos los cátodos de los LEDs (las terminales negativas) están conectados entre sí y a un punto común es decir las pines deben estar alimntados con un 1 para ver las salidas, generalmente se conecta a tierra (GND). Para encender un segmento, se debe aplicar una señal positiva (voltaje) a los ánodos de los LEDs correspondientes.
+- ![Imagen]()
