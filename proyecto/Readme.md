@@ -99,4 +99,6 @@ Una protoboard (también conocida como placa de pruebas o breadboard) es una her
 - ![Imagen](https://github.com/rog-pix/Sensor-de-Ultra-Sonido-/blob/ddfc191e6d3bf7c24b04e956395bf0db3652c1ef/Im%C3%A1genes/pulsador.pgn)
 
  ## Planteamiento del ploblema
- Al momento de llevar acabo el problema se decidio trabajarlo en diferentes modulos 
+ Al momento de llevar acabo el problema se decidio trabajarlo en diferentes modulos ya que al trabajar todo el modulo completo en primera instancia al cometer un error es más dificil de encontrarlo 
+ - **Contador**.
+ -  ![Imagen]()
