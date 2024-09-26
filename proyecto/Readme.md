@@ -101,4 +101,6 @@ Una protoboard (también conocida como placa de pruebas o breadboard) es una her
  ## Planteamiento del ploblema
  Al momento de llevar acabo el problema se decidio trabajarlo en diferentes modulos ya que al trabajar todo el modulo completo en primera instancia al cometer un error es más dificil de encontrarlo 
  - **Contador**.
- -  ![Imagen]()
+ -  ![Imagen](https://github.com/rog-pix/Sensor-de-Ultra-Sonido-/blob/83b31ead37eca3e755fa55ebe8207e23089b1bde/Im%C3%A1genes/contador.png)
+ -  El modulo presentado tiene la finalidad de entrar una cantidad n de bit que entraran en codigo binario a decimal en primera instancia que a su vez pasaran por un mux que separara los 1 por decesnas y los 0 por unidades con la finalidad de darle un valor de entrada al contador, el codigo al estar en binario tendra que ser pasado a 7 segmentos mediante un display que mandra una señal a nuestro 7 segmentos para mostrarnos la distancia en forma númerica 
+ -  por otro lado tenemos un pulso el cual pasa por una demux y nos activa de formas instantanea los dos 7 segmentos haciendo parecer que se prenden al instante ambos.
