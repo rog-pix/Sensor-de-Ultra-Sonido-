@@ -105,5 +105,5 @@ Una protoboard (también conocida como placa de pruebas o breadboard) es una her
  -  El modulo presentado tiene la finalidad de entrar una cantidad n de bit que entraran en codigo binario a decimal en primera instancia que a su vez pasaran por un mux que separara los 1 por decesnas y los 0 por unidades con la finalidad de darle un valor de entrada al contador, el codigo al estar en binario tendra que ser pasado a 7 segmentos mediante un display que mandra una señal a nuestro 7 segmentos para mostrarnos la distancia en forma númerica 
  -  por otro lado tenemos un pulso el cual pasa por una demux y nos activa de formas instantanea los dos 7 segmentos haciendo parecer que se prenden al instante ambos.
  -   **Contador**.
- -   ![Imagen]((https://github.com/rog-pix/Sensor-de-Ultra-Sonido-/blob/caf7fbf05edaed7c9b001ad4eada14b326906055/Im%C3%A1genes/echo%20.png)
+ -   ![Imagen](https://github.com/rog-pix/Sensor-de-Ultra-Sonido-/blob/caf7fbf05edaed7c9b001ad4eada14b326906055/Im%C3%A1genes/echo%20.png)
  -  
