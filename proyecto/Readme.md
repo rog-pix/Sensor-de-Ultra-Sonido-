@@ -106,4 +106,5 @@ Una protoboard (también conocida como placa de pruebas o breadboard) es una her
  -  por otro lado tenemos un pulso el cual pasa por una demux y nos activa de formas instantanea los dos 7 segmentos haciendo parecer que se prenden al instante ambos.
  -   **Contador**.
  -   ![Imagen](https://github.com/rog-pix/Sensor-de-Ultra-Sonido-/blob/caf7fbf05edaed7c9b001ad4eada14b326906055/Im%C3%A1genes/echo%20.png)
+ -   El ultrasonido trabaja por frecuencia en un tiempo de mostreo muy rapido pero para que muestre los diferentes valores toca inicialisarlo varias veces, ademas de tener un rango de alcance el cual lo hara en un tiempo de 10 us que es cuando este se encuentra en alto, este mide la distancia si el ultrasonido encuntra un objeto en su rango x, al encontrar un objeto este hace una trayectoria de vuelta, esta distanica en primera instancia se mide en frecuencia la cual se pasara a distancia al tomar tanto la frecuencia como la velocidad que se demora en recorrer un tiempo   
  -  
