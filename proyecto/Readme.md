@@ -1,4 +1,5 @@
-# Proyecto final: Radar
+# Proyecto final: SENSOR DE PROXIMIDAD
+
 
 ## Autores
 
