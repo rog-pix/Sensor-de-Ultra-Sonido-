@@ -6,7 +6,7 @@
 - _Juan Felipe Rátiva Sanchez_
 
 ## Descripción
-
+fffdf
 Este proyecto tiene como objetivo principal aplicar los conocimientos de la asignatura aprendidos en las clases magistrales y las prácticas de laboratorio, para ello se van a utilizar los siguientes actuadores y sensores: Sensor JoyStick, sensor ultrasonido y un servomotor.
 
 ## Contenido
