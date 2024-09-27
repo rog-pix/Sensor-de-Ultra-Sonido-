@@ -114,7 +114,7 @@ Una protoboard (también conocida como placa de pruebas o breadboard) es una her
    - El servo-motor nos ayudaraía a controlar ladirección del echo de esta manera se podra tener una mayor rango donde podra cactar el ultrasonido este hará movimiento entre diferentes angulos
 
 - ## Planteamiento del problema.
-   
+2fk2fk2nfk2nfk2nfkn2f2f2   
    - - ## Conclusiones.
      - EL sensor de ultrasonido nos puede aydar a saber si tenemos objetos en un determinado rango, es decir nos puede servir al momento de parquear para saber si tenemos algún objeto y a que distancia, de esta forma podiendo evitar daños de este.
      - 
