@@ -1,0 +1,30 @@
+# Archivo de configuración de pines para la FPGA BlackICE iCE40-HX4K
+
+# Asignación del reloj
+set_io clk 60  # El pin de reloj está fijo en el pin 60
+
+# Entrada del sensor de eco
+set_io echo_signal 49  # Asigna la entrada del sensor de eco al pin 2
+
+# Salida de trigger para el sensor
+set_io trigger 104  # Asigna la salida de trigger al pin 3
+
+# Conexiones para los segmentos del display de 7 segmentos
+# Los segmentos están activados por 0 en un display de cátodo común, por lo que 
+# el archivo .pcf debe asignar estos pines correctamente.
+set_io segmentos[0] 19  # Segmento a (Pin 19)
+set_io segmentos[1] 20  # Segmento b (Pin 20)
+set_io segmentos[2] 21  # Segmento c (Pin 21)
+set_io segmentos[3] 22  # Segmento d (Pin 22)
+set_io segmentos[4] 23  # Segmento e (Pin 23)
+set_io segmentos[5] 24  # Segmento f (Pin 24)
+set_io segmentos[6] 26  # Segmento g (Pin 26)
+
+# Conexiones para los ánodos del display de 7 segmentos
+# Para cátodo común, los ánodos están activos en 0, así que debes encender 
+# los dígitos con un 0. Este mapeo se asigna a los pines correctos del FPGA.
+set_io catodo[0] 52    # Anodo del dígito de unidades (Pin 52)
+set_io catodo[1] 99    # Anodo del dígito de decenas (Pin 99)
+
+
+#set_io probe 56
