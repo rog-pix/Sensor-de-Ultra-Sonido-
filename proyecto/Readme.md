@@ -6,7 +6,6 @@
 - _Juan Felipe Rátiva Sanchez_
 
 ## Descripción
-fffdf
 Este proyecto tiene como objetivo principal aplicar los conocimientos de la asignatura aprendidos en las clases magistrales y las prácticas de laboratorio, para ello se van a utilizar los siguientes actuadores y sensores: Sensor JoyStick, sensor ultrasonido y un servomotor.
 
 ## Contenido
@@ -113,3 +112,4 @@ Una protoboard (también conocida como placa de pruebas o breadboard) es una her
    - - ## Conclusiones.
      - EL sensor de ultrasonido nos puede aydar a saber si tenemos objetos en un determinado rango, es decir nos puede servir al momento de parquear para saber si tenemos algún objeto y a que distancia, de esta forma podiendo evitar daños de este.
      - 
+di
