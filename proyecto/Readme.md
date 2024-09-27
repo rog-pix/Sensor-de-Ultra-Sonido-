@@ -3,7 +3,7 @@
 ## Autores
 
 - _Roger Moreno Giraldo_
-- _Juan Felipe _
+- _Juan Felipe Rátiva Sanchez_
 
 ## Descripción
 
