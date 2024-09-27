@@ -1,1 +1,1 @@
-# Sensor-de-Ultra-Sonido-
+# Sensor-de-proximidad-
