@@ -98,7 +98,7 @@ Una protoboard (también conocida como placa de pruebas o breadboard) es una her
 - también conocido como botón o interruptor momentáneo, es un componente electrónico que permite cerrar o abrir un circuito de manera temporal cuando se presiona. Su función principal es iniciar o detener el flujo de corriente eléctrica al accionar un circuito, como encender un LED, activar un motor o enviar una señal a un microcontrolador.
 - ![Imagen](https://github.com/rog-pix/Sensor-de-Ultra-Sonido-/blob/ddfc191e6d3bf7c24b04e956395bf0db3652c1ef/Im%C3%A1genes/pulsador.pgn)
 
- ## Planteamiento del ploblema
+ - ## Planteamiento del ploblema
  Al momento de llevar acabo el problema se decidio trabajarlo en diferentes modulos ya que al trabajar todo el modulo completo en primera instancia al cometer un error es más dificil de encontrarlo 
  -**Diagrama de flujo**.
   ![Imagen](https://github.com/rog-pix/Sensor-de-proximidad/blob/83aaf0cf36f1fa73d5d3af4d592cf2db32492f2b/Im%C3%A1genes/DIagrama%20de%20Flujo.png)
@@ -112,9 +112,6 @@ Una protoboard (también conocida como placa de pruebas o breadboard) es una her
    - **Servo**.
    - ![Imagen](https://github.com/rog-pix/Sensor-de-Ultra-Sonido-/blob/cc9f31ae9b914d0fd87767491e5ca0c6045143d6/Im%C3%A1genes/servo.png)
    - El servo-motor nos ayudaraía a controlar ladirección del echo de esta manera se podra tener una mayor rango donde podra cactar el ultrasonido este hará movimiento entre diferentes angulos
-
-- ## Planteamiento del problema.
-2fk2fk2nfk2nfk2nfkn2f2f2   
    - - ## Conclusiones.
      - EL sensor de ultrasonido nos puede aydar a saber si tenemos objetos en un determinado rango, es decir nos puede servir al momento de parquear para saber si tenemos algún objeto y a que distancia, de esta forma podiendo evitar daños de este.
      - 
