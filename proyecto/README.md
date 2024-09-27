@@ -5,7 +5,7 @@
 
 - _Roger Moreno Giraldo_
 - _Juan Felipe Rátiva Sanchez_
-
+  Universidad Nacional de Colombia
 ## Descripción
 Este proyecto tiene como objetivo principal aplicar los conocimientos de la asignatura aprendidos en las clases magistrales y las prácticas de laboratorio, para ello se van a utilizar los siguientes actuadores y sensores: Sensor pulsador, sensor ultrasonido, mòdulo 7 segmentos de 2 dígitos de catodo común y un servomotor.
 
