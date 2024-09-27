@@ -113,4 +113,4 @@ Una protoboard (también conocida como placa de pruebas o breadboard) es una her
    - - ## Conclusiones.
      - EL sensor de ultrasonido nos puede aydar a saber si tenemos objetos en un determinado rango, es decir nos puede servir al momento de parquear para saber si tenemos algún objeto y a que distancia, de esta forma podiendo evitar daños de este.
      - 
-di
+- ## Diagrama de flujo.
