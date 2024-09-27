@@ -101,7 +101,7 @@ Una protoboard (también conocida como placa de pruebas o breadboard) es una her
  ## Planteamiento del ploblema
  Al momento de llevar acabo el problema se decidio trabajarlo en diferentes modulos ya que al trabajar todo el modulo completo en primera instancia al cometer un error es más dificil de encontrarlo 
  -**Diagrama de flujo**.
-  ![Imagen]
+  ![Imagen](https://github.com/rog-pix/Sensor-de-proximidad/blob/83aaf0cf36f1fa73d5d3af4d592cf2db32492f2b/Im%C3%A1genes/DIagrama%20de%20Flujo.png)
  - **Contador**.
  -  ![Imagen](https://github.com/rog-pix/Sensor-de-Ultra-Sonido-/blob/5ce90cc2b95b2fc7fb82ebdefd9e8bfd5404583d/Im%C3%A1genes/contadoor.png)
  -  El modulo presentado tiene la finalidad de entrar una cantidad n de bit que entraran en codigo binario a decimal en primera instancia que a su vez pasaran por un mux que separara los 1 por decesnas y los 0 por unidades con la finalidad de darle un valor de entrada al contador, el codigo al estar en binario tendra que ser pasado a 7 segmentos mediante un display que mandra una señal a nuestro 7 segmentos para mostrarnos la distancia en forma númerica 
