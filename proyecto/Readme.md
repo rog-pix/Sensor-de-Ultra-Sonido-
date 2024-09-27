@@ -109,4 +109,7 @@ Una protoboard (también conocida como placa de pruebas o breadboard) es una her
  -   El ultrasonido trabaja por frecuencia en un tiempo de mostreo muy rapido pero para que muestre los diferentes valores toca inicialisarlo varias veces, ademas de tener un rango de alcance el cual lo hara en un tiempo de 10 us que es cuando este se encuentra en alto, este mide la distancia si el ultrasonido encuntra un objeto en su rango x, al encontrar un objeto este hace una trayectoria de vuelta, esta distanica en primera instancia se mide en frecuencia la cual se pasara a distancia al tomar tanto la frecuencia como la velocidad que se demora en recorrer un tiempo   
    - **Servo**.
    - ![Imagen](https://github.com/rog-pix/Sensor-de-Ultra-Sonido-/blob/cc9f31ae9b914d0fd87767491e5ca0c6045143d6/Im%C3%A1genes/servo.png)
-   - El servo-motor nos ayudaraía a controlar ladirección del echo de esta manera se podra tener una mayor rango donde podra cactar el ultrasonido este hará movimiento entre diferentes angulos  
+   - El servo-motor nos ayudaraía a controlar ladirección del echo de esta manera se podra tener una mayor rango donde podra cactar el ultrasonido este hará movimiento entre diferentes angulos
+   - - ## Conclusiones.
+     - A
+     - 
